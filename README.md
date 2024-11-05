@@ -1,1 +1,2 @@
 # SignGuard
+Traffic signs provide essential information to drivers, from speed limits to stop signs and hazard warnings. In the era of autonomous vehicles and advanced driver-assistance systems (ADAS), recognizing traffic signs automatically is crucial for safe and effective vehicle operation. This project aims to develop a Traffic Sign Detection System using machine learning and computer vision. The system will detect and classify traffic signs in real-time, improving road safety and helping vehicles understand the environment around them.
